@@ -1,0 +1,151 @@
+@media screen and ("min-width: 320px") { 
+
+	@import url(//fonts.googleapis.com/css?family=Titillium+Web:400,700,300);
+
+	h1, h2, h3, h4 {
+	    font-family: 'Titillium Web', Arial, sans-serif;
+	}
+
+	.pp-navigation, .header-container-wrapper, .header-container {
+	    
+	}
+
+	.main-content .layout-widget-wrapper .hs_cos_wrapper_type_text {
+	    font-size: 1.2em;
+	    font-family: 'Titillium Web', Arial, sans-serif;
+	    margin-top: 25px;
+	    display: inline-block;    
+	}
+
+	.header-container {
+	    padding: 0px;
+	}
+
+	.body-container-wrapper {
+	    padding-top: 0px;
+	}
+
+	.header-container.container-fluid {
+	    background: none;
+	}
+
+	.header-container.container-fluid .pp-navigation {
+	    background: none !important;
+	}
+
+	.header-container .hs-image-widget  {
+	    border-width: 0px;
+	    margin-top: 8px !important;
+	    margin-bottom: 9px !important;
+	}
+
+	.custom-menu-primary {
+	    padding-top: 8px;
+	}
+	.custom-menu-primary a {
+	    color: white !important;
+	}
+
+	.service-group-icon .layout-widget-wrapper, .span12.widget-span.widget-type-cell.page-center {
+	    text-align:center;
+	}
+
+	#banner-background-image {
+	    text-align: center;
+	}
+
+	#banner-background-image h3, #banner-background-image h1 {
+	    background: none !important;
+	}
+
+	#banner-background-image h1 {
+	    margin: 200px auto 0px;
+	}
+
+	#banner-background-image h3 {
+	    margin: 0px auto 30px;
+	}
+
+	body .widget-type-cta #cta_button_2037968_48d30e7a-24fb-45ea-8dfd-4b96b4218bfc  {
+	    background: none !important;
+	    border: 3px solid #1f8a70 !important;
+	    -webkit-box-shadow: none !important;
+	    text-shadow: none !important;
+	    border-radius: 25px !important;    
+	}
+
+	body .widget-type-cta #cta_button_2037968_48d30e7a-24fb-45ea-8dfd-4b96b4218bfc span {
+	    color: #ffffff;
+	    font-size: 18px !important;
+	    font-family: sans-serif;
+	    line-height: 1.2em !important;
+	    padding: 8px !important;
+	    display: inline-block !important;    
+	}
+
+	/* NOVA EDITS */
+
+	.pp-navigation .fa {
+	    color: #ffe11a;
+	    font-size: 1.5em;
+	    border: 3px solid #ffe11a;
+	    border-radius: 25px;
+	    min-width: 40px;
+	    min-height: 40px;   
+	    margin-right: 10px;
+	    margin-top: 25px;    
+	}
+	.pp-navigation .fa:before {
+	    margin-left: 5px;
+	    margin-top: 6px;
+	    display: inline-block;
+	}
+
+	.service-group .row-number-1 .layout-widget-wrapper {
+	    min-height: 115px;
+	}
+
+	.service-group .row-number-2 .layout-widget-wrapper {
+	    min-height: 75px;
+	}
+
+
+	.service-group .layout-widget-wrapper h4 {
+	    font-size: 1.4em;
+	    color: #4e4e4e;
+	}
+
+
+	.make-me-parallax {
+	    height: 620px;
+	    background-position: center top;
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+	}
+
+	.make-me-parallax.image-1 {
+	    background-image: url("//cdn2.hubspot.net/hub/2037968/hubfs/top-image-nofilter.jpg?t=1458039269412&width=1600");
+	}
+
+	.make-me-parallax.image-2 {
+	    background-image: url("//cdn2.hubspot.net/hubfs/2037968/iStock_000076344551_XXXLarge_-compressor.jpg");
+	}
+
+	body .widget-type-cta.second-call-to-action #cta_button_2037968_48d30e7a-24fb-45ea-8dfd-4b96b4218bfc {
+	    background: #1f8a70 !important;
+	    border: 3px solid #1f8a70 !important;
+	    -webkit-box-shadow: none !important;
+	    text-shadow: none !important;
+	    border-radius: 25px !important;
+	    margin-bottom: 60px !important;   
+	}
+
+	#offer-background-image.what-area {
+		h2 {
+			padding-bottom: 40px;
+			color: white;
+		}
+		background: $green-area;
+	}
+
+}

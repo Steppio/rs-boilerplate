@@ -1,0 +1,12 @@
+{
+  "name": "PinPoint",
+  "version": "0.0.1",
+  "description": "PinPoint website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}

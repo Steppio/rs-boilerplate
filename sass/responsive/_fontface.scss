@@ -1,0 +1,21 @@
+	/* Typeface Declarations */
+	@font-face {
+	  font-family: 'Roboto-Bold';
+	  src: url('fonts/Roboto-Black.ttf');
+	}
+	@font-face {
+	  font-family: 'Roboto-Light';
+	  src: url('fonts/Roboto-Light.ttf');
+	}	
+	@font-face {
+	  font-family: 'Roboto';
+	  src: url('fonts/Roboto-Regular.ttf');
+	}
+	@font-face {
+	  font-family: 'Roboto-Condensed';
+	  src: url('fonts/RobotoCondensed-Bold.ttf');
+	}	
+	$main-typeface: 'Roboto', Arial, sans-serif;
+	$main-light-typeface: 'Roboto-Light', Arial, sans-serif;
+	$main-bold-typeface: 'Roboto-Bold', Arial, sans-serif;
+	$main-heading-typeface: 'Roboto-Condensed', Arial, sans-serif;
